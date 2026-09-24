@@ -12,9 +12,12 @@ Ce dépôt rassemble une formation progressive pour utiliser Hermes Agent, de l'
 4. **Messagerie** — gateway, Telegram et contrôle des accès.
 5. **Déploiement** — service utilisateur, observabilité, sauvegarde et mise à jour.
 
-## Première mini-formation disponible
+## Formations disponibles
 
-- [Installer et vérifier Hermes Agent](01-fondations/01-installation-et-verification/README.md)
+- [01 — Installer et vérifier Hermes Agent](01-fondations/01-installation-et-verification/README.md)
+- [02 — Utiliser Hermes en CLI : modèles, sessions et consommation](02-utilisation-cli/README.md)
+- [03 — Connecter Telegram et WhatsApp](03-messagerie-telegram-whatsapp/README.md)
+- [04 — Déployer Hermes sur un VPS AWS, Hostinger ou autre Ubuntu](04-deploiement-vps/README.md)
 
 ## Convention du dépôt
 

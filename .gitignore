@@ -1,0 +1,5 @@
+# Les environnements et caches locaux ne sont pas des supports de cours.
+.venv/
+__pycache__/
+*.py[cod]
+.env

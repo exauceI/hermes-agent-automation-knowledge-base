@@ -18,6 +18,7 @@ Ce dépôt rassemble une formation progressive pour utiliser Hermes Agent, de l'
 - [02 — Utiliser Hermes en CLI : modèles, sessions et consommation](02-utilisation-cli/README.md)
 - [03 — Connecter Telegram et WhatsApp](03-messagerie-telegram-whatsapp/README.md)
 - [04 — Déployer Hermes sur un VPS AWS, Hostinger ou autre Ubuntu](04-deploiement-vps/README.md)
+- [05 — Se connecter à Hermes à distance en CLI (SSH et tmux)](05-connexion-distante-cli/README.md)
 
 ## Convention du dépôt
 
